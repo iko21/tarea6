@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1395693194 source:c:\users\omar\desktop\prograiii\maze\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	<fstream>
+
